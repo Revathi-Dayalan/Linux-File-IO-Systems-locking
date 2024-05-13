@@ -39,6 +39,7 @@ int main()
 ```
 
 # OUTPUT:
+![326173769-a14ff10d-b16b-4403-ab3a-639485382e02](https://github.com/Revathi-Dayalan/Linux-File-IO-Systems-locking/assets/96000574/926d0209-0c9f-4221-9ad3-c1773d54dbd9)
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -90,6 +91,7 @@ int main (int argc, char* argv[])
 
 
 ## OUTPUT
+![326173801-6a9674ab-333d-4bb8-be25-8f3e8bef5530](https://github.com/Revathi-Dayalan/Linux-File-IO-Systems-locking/assets/96000574/6459177f-f570-440c-b005-e34219a7d535)
 
 # RESULT:
 The programs are executed successfully.
